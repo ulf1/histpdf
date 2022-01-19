@@ -1,0 +1,26 @@
+{
+  "name": "histpdf",
+  "version": "0.1.0",
+  "description": "Approximate the density (PDF) from a histogram for given bins",
+  "main": "src/histpdf.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satzbeleg/histpdf.git"
+  },
+  "keywords": [
+    "empirical-pdf",
+    "histogram"
+  ],
+  "author": "Ulf Hamster",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/satzbeleg/histpdf/issues"
+  },
+  "homepage": "https://github.com/satzbeleg/histpdf",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
